@@ -128,7 +128,7 @@ next_t = 0
 framenum = 0
 
 T = 1.*dia
-Days = 1*T #cuantos dias quiero simular
+Days = 2*T #cuantos dias quiero simular
 
 # Vectores para acumular la temperatura en puntos interesantes
 s1 = np.zeros(np.int32(Days/dt))
