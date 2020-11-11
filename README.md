@@ -7,3 +7,5 @@ anteriores agregandoles la tercera dimension.Para el loop en el espacion se agre
 ademas de agregar la tercera dimensión a los terminos exstentes. A la variable u_kml que se modifica en cada ciclo para formar el "Fordwar Euler" se le añade la función que
 representa el calor de hidratacion (q(t)).
 Finalmente, se identifican los sensores para graficar los cambios de temperatura que fueron registrados.
+
+el codigo entregado, permite crear las figuras, las que luego se deben ensamblar con el codigo gif.py. con eso entrega los resultados pedidos.
